@@ -30,7 +30,7 @@ LinkedIn_url: https://www.linkedin.com/in/ioan-street/
 github_username:  ioanstreet
 
 # Build settings
-theme: minima
+theme: dinky
 plugins:
   - jekyll-feed
 
